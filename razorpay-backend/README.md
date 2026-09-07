@@ -1,4 +1,4 @@
-# 🎈 Your Backend — Explained Super Simple
+Backend — Explained 
 
 Imagine your project is a restaurant:
 - **Frontend** (Somya's job) = the menu and tables customers see 🍽️
